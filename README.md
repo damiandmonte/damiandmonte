@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on Eclipse OMR project for IBM CAS-Atlantic.
 
-[![Damian's github stats](https://github-readme-stats.vercel.app/api?username=damiandmonte&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Damian's github stats](https://github-readme-stats.vercel.app/api?username=damiandmonte&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **damiandmonte/damiandmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
