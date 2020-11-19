@@ -1,6 +1,6 @@
 ### Hi there! This is Damian Diago D'monte 👋
 
-## 🔭 I’m currently working on Eclipse OMR project for IBM CAS-Atlantic.
+#### 🔭 I’m currently working on Eclipse OMR project for IBM CAS-Atlantic.
 <!--
 **damiandmonte/damiandmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
