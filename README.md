@@ -1,4 +1,4 @@
-**Hi there! This is Damian Diago D'monte** 👋
+### Hi there! This is Damian Diago D'monte 👋
 
 🔭 I am a graduate student pursuing masters in computer science at university of New Brunswick. I am researching AOT compilation for Eclipse OMR (CAS Project ID -1036) at IBM/UNB CAS-Atlantic. I am interested in compilers and data science. 
 
