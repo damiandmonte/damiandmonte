@@ -11,11 +11,11 @@ Hi there! This is Damian Diago D'monte 👋
 
 
 
-📫 How to reach me: <a href='mailto:damiandmonte@gmailcom'>damiandmonte@gmailcom</a>
+📫Email To :   <a href='mailto:damiandmonte@gmailcom'>damiandmonte@gmailcom</a>
 
 
 
-📫 Get Social:
+📫 How to Connect :   
 [![Connect on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damiandiagodmonte)
 [![Connect on FaceBook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dmonte.damian/)
 [![Connect on Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xdamian_dmonte/?hl=en)
